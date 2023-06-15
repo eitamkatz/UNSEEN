@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &4200547854062824657
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3595442996437643047, guid: 1a4566d42e895dd4ea33bc7075a72ef5, type: 3}
+      propertyPath: radiusTurnComps
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 4850659120033524578, guid: 1a4566d42e895dd4ea33bc7075a72ef5, type: 3}
+      propertyPath: m_Name
+      value: GuardLightUp Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 6645066175931445575, guid: 1a4566d42e895dd4ea33bc7075a72ef5, type: 3}
+      propertyPath: m_Intensity
+      value: 0.85
+      objectReference: {fileID: 0}
+    - target: {fileID: 6645066175931445575, guid: 1a4566d42e895dd4ea33bc7075a72ef5, type: 3}
+      propertyPath: m_FalloffIntensity
+      value: 0.9
+      objectReference: {fileID: 0}
+    - target: {fileID: 6645066175931445575, guid: 1a4566d42e895dd4ea33bc7075a72ef5, type: 3}
+      propertyPath: m_PointLightInnerAngle
+      value: 20.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6645066175931445575, guid: 1a4566d42e895dd4ea33bc7075a72ef5, type: 3}
+      propertyPath: m_PointLightOuterAngle
+      value: 34
+      objectReference: {fileID: 0}
+    - target: {fileID: 6645066175931445575, guid: 1a4566d42e895dd4ea33bc7075a72ef5, type: 3}
+      propertyPath: m_PointLightInnerRadius
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 6645066175931445575, guid: 1a4566d42e895dd4ea33bc7075a72ef5, type: 3}
+      propertyPath: m_PointLightOuterRadius
+      value: 10.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8084918474183820187, guid: 1a4566d42e895dd4ea33bc7075a72ef5, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 8084918474183820187, guid: 1a4566d42e895dd4ea33bc7075a72ef5, type: 3}
+      propertyPath: shotSound
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 8084918474183820187, guid: 1a4566d42e895dd4ea33bc7075a72ef5, type: 3}
+      propertyPath: gameManager
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 8084918474183820187, guid: 1a4566d42e895dd4ea33bc7075a72ef5, type: 3}
+      propertyPath: playerToWorld
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 8084918474183820187, guid: 1a4566d42e895dd4ea33bc7075a72ef5, type: 3}
+      propertyPath: maxAngleDeflection
+      value: 70
+      objectReference: {fileID: 0}
+    - target: {fileID: 8750730149859630620, guid: 1a4566d42e895dd4ea33bc7075a72ef5, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8750730149859630620, guid: 1a4566d42e895dd4ea33bc7075a72ef5, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.059993554
+      objectReference: {fileID: 0}
+    - target: {fileID: 8750730149859630620, guid: 1a4566d42e895dd4ea33bc7075a72ef5, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.27999923
+      objectReference: {fileID: 0}
+    - target: {fileID: 8750730149859630620, guid: 1a4566d42e895dd4ea33bc7075a72ef5, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8750730149859630620, guid: 1a4566d42e895dd4ea33bc7075a72ef5, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.20554668
+      objectReference: {fileID: 0}
+    - target: {fileID: 8750730149859630620, guid: 1a4566d42e895dd4ea33bc7075a72ef5, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8750730149859630620, guid: 1a4566d42e895dd4ea33bc7075a72ef5, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8750730149859630620, guid: 1a4566d42e895dd4ea33bc7075a72ef5, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.97864735
+      objectReference: {fileID: 0}
+    - target: {fileID: 8750730149859630620, guid: 1a4566d42e895dd4ea33bc7075a72ef5, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8750730149859630620, guid: 1a4566d42e895dd4ea33bc7075a72ef5, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8750730149859630620, guid: 1a4566d42e895dd4ea33bc7075a72ef5, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 203.723
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 1a4566d42e895dd4ea33bc7075a72ef5, type: 3}

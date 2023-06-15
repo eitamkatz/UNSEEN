@@ -1,0 +1,453 @@
+fileFormatVersion: 2
+guid: 5a9010ecb285548349225d0de4472348
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: separated_tiles 3_0
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1150
+        width: 202
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd0be80edec441f5924e7d059539a01
+      internalID: -367248983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: separated_tiles 3_1
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1121
+        width: 101
+        height: 153
+      alignment: 9
+      pivot: {x: 1, y: 0.3333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6529214e737f407f88a69e12b5c9c52
+      internalID: 1445602700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: separated_tiles 3_2
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1161
+        width: 202
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fbcc8376c40b4357ba92556e581fdaf
+      internalID: 327022947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: separated_tiles 3_3
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1128
+        width: 101
+        height: 153
+      alignment: 9
+      pivot: {x: 0, y: 0.3333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65ddaf07969c453492a0354cde0a80e
+      internalID: -667635075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: separated_tiles 3_4
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 889
+        width: 202
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6644815974c4490da8255afb4dccae6
+      internalID: 646037121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: separated_tiles 3_5
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 860
+        width: 101
+        height: 153
+      alignment: 9
+      pivot: {x: 1, y: 0.3333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41db213a387524dad8b068e0dd87ab90
+      internalID: -1522940413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: separated_tiles 3_6
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 894
+        width: 202
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4154b512a33844820986dac647d3bd73
+      internalID: 1360699466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: separated_tiles 3_7
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 867
+        width: 101
+        height: 153
+      alignment: 9
+      pivot: {x: 0, y: 0.3333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b22c8ec6f824006ad4de8b8d185fc9
+      internalID: -2120422456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: separated_tiles 3_8
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 626
+        width: 202
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7930aaa4306d479ead4e7cd576bb6b2
+      internalID: 946641089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: separated_tiles 3_9
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 596
+        width: 101
+        height: 153
+      alignment: 9
+      pivot: {x: 1, y: 0.3333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22389487f108b4ce5b32dc2dd0046fba
+      internalID: 1129175881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: separated_tiles 3_10
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 378
+        width: 202
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63196e3af7964c0cbcfe0b4c84e56c2
+      internalID: 1915426885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: separated_tiles 3_11
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 339
+        width: 101
+        height: 153
+      alignment: 9
+      pivot: {x: 1, y: 0.3333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43554ef709ff4b35ae19e6d6a1b40eb
+      internalID: 1558018644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: separated_tiles 3_12
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 339
+        width: 101
+        height: 153
+      alignment: 9
+      pivot: {x: 0, y: 0.3333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8213d0af3d6b24894994d87affc603d0
+      internalID: 74952432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: separated_tiles 3_13
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 120
+        width: 202
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4895c418f6b164a869ff0b75a53391b0
+      internalID: 1579113647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: separated_tiles 3_14
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 94
+        width: 101
+        height: 153
+      alignment: 9
+      pivot: {x: 0, y: 0.3333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b56d86286b449d1bdd49548d687c63
+      internalID: -719386646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      separated_tiles 3_0: -367248983
+      separated_tiles 3_1: 1445602700
+      separated_tiles 3_10: 1915426885
+      separated_tiles 3_11: 1558018644
+      separated_tiles 3_12: 74952432
+      separated_tiles 3_13: 1579113647
+      separated_tiles 3_14: -719386646
+      separated_tiles 3_2: 327022947
+      separated_tiles 3_3: -667635075
+      separated_tiles 3_4: 646037121
+      separated_tiles 3_5: -1522940413
+      separated_tiles 3_6: 1360699466
+      separated_tiles 3_7: -2120422456
+      separated_tiles 3_8: 946641089
+      separated_tiles 3_9: 1129175881
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

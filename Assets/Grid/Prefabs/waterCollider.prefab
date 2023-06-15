@@ -1,0 +1,120 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6569431010084785913
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6569431010084785919}
+  - component: {fileID: 6569431010084785912}
+  m_Layer: 4
+  m_Name: waterCollider
+  m_TagString: water
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6569431010084785919
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6569431010084785913}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -41.85, y: -17.17, z: -1.2288119}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!60 &6569431010084785912
+PolygonCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6569431010084785913}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Points:
+    m_Paths:
+    - - {x: -1.2249146, y: 2.653637}
+      - {x: -1.2164526, y: 3.2896478}
+      - {x: 5.333496, y: 6.533942}
+      - {x: 7.020298, y: 5.7266893}
+      - {x: 7.803047, y: 6.157955}
+      - {x: 7.8088493, y: 6.6812468}
+      - {x: 13.8617325, y: 9.754311}
+      - {x: 19.141628, y: 7.0849}
+      - {x: 19.685137, y: 7.5545044}
+      - {x: 8.787174, y: 13.090186}
+      - {x: 8.803001, y: 13.689417}
+      - {x: 18.82891, y: 18.729916}
+      - {x: 28.899912, y: 13.802433}
+      - {x: 27.171442, y: 17.876598}
+      - {x: 27.127974, y: 18.51937}
+      - {x: 38.31584, y: 24.036533}
+      - {x: 45.239246, y: 20.601421}
+      - {x: 45.959377, y: 21.442827}
+      - {x: 39.23599, y: 24.825642}
+      - {x: 39.23855, y: 25.498396}
+      - {x: 44.865047, y: 28.268604}
+      - {x: 52.993225, y: 24.19048}
+      - {x: 52.95679, y: 23.631504}
+      - {x: 47.46661, y: 20.88349}
+      - {x: 49.316387, y: 19.419138}
+      - {x: 49.27267, y: 19.925049}
+      - {x: 50.288036, y: 20.458035}
+      - {x: 51.31481, y: 20.969656}
+      - {x: 52.309353, y: 21.473953}
+      - {x: 53.297577, y: 21.89003}
+      - {x: 53.285618, y: 22.419333}
+      - {x: 53.807884, y: 22.716513}
+      - {x: 55.263004, y: 22.037756}
+      - {x: 55.278263, y: 22.474173}
+      - {x: 57.73579, y: 23.719158}
+      - {x: 58.114685, y: 24.000458}
+      - {x: 56.789104, y: 24.632393}
+      - {x: 56.78085, y: 25.19288}
+      - {x: 58.304733, y: 26.012924}
+      - {x: 60.281452, y: 25.007782}
+      - {x: 60.30767, y: 25.947577}
+      - {x: 61.749233, y: 26.651085}
+      - {x: 61.296444, y: 26.903053}
+      - {x: 61.296764, y: 27.456226}
+      - {x: 62.366005, y: 27.9778}
+      - {x: 63.824215, y: 27.211365}
+      - {x: 63.80754, y: 28.204996}
+      - {x: 65.397835, y: 29.024218}
+      - {x: 68.12435, y: 27.496399}
+      - {x: 69.398094, y: 28.287489}
+      - {x: 64.54852, y: 30.656445}
+      - {x: 60.269226, y: 32.8117}
+      - {x: 60.230404, y: 33.453503}
+      - {x: 66.3389, y: 36.488594}
+      - {x: 71.77925, y: 33.82228}
+      - {x: 71.70094, y: 36.170986}
+      - {x: 78.80239, y: 39.765953}
+      - {x: 79.110054, y: 50.827293}
+      - {x: -31.259054, y: 4.7745333}
+      - {x: 6.1713347, y: -14.194237}
+      - {x: 5.381175, y: -0.6913319}
